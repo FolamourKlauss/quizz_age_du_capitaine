@@ -5,14 +5,12 @@
 * Et écris ton code ici même !
 */
 
-/* Exo 1 */
-// Ton code ici...
+
 
 var question1 = "Quelle mer borde la ville de Sébastopol ?";
 var solution1 = "la mer Noire";
 
-/* Exo 2 */
-// Ton code ici...
+
 
 //condition vérifiable pour obtenir le resultat de vueEnCours (possibilité de jouer avec return également)
 // var resultat = true;
@@ -40,8 +38,7 @@ function vueEnCours() {
     }
 };
 
-/* Exo 3 */
-// Ton code ici...
+
 
 var question2 = "Quel est l'âge du capitaine ?";
 var solution2 = 63;
